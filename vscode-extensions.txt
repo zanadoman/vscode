@@ -1,0 +1,13 @@
+anthropic.claude-code
+dart-code.dart-code
+dart-code.flutter
+llvm-vs-code-extensions.lldb-dap
+llvm-vs-code-extensions.vscode-clangd
+ms-python.vscode-pylance
+ms-vscode.cmake-tools
+ms-vscode.cpp-devtools
+mwalejonathan.tokyonight-vscode
+redhat.java
+shader-slang.slang-language-extension
+usernamehw.errorlens
+vscodevim.vim
