@@ -2,10 +2,7 @@
     "clangd.arguments": [
         "--header-insertion=never"
     ],
-    "[dart]": {
-        "editor.formatOnSave": true,
-        "editor.formatOnType": true
-    },
+    "claudeCode.preferredLocation": "sidebar",
     "editor.fontFamily": "'Hack Nerd Font Mono', monospace",
     "editor.fontSize": 16,
     "editor.fontWeight": "bold",
@@ -15,6 +12,9 @@
     "editor.mouseWheelZoom": true,
     "editor.stickyScroll.enabled": false,
     "editor.wordBasedSuggestions": "off",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "redhat.telemetry.enabled": false,
     "security.workspace.trust.enabled": false,
     "vim.hlsearch": true,
     "vim.ignorecase": false,
